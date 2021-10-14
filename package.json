@@ -43,7 +43,7 @@
         "body-parser": "1.19.x",
         "express": "^5.0.0-alpha.8",
         "language-tags": "1.0.5",
-        "libxslt": "0.10.0",
+        "libxslt": "github:jnm/node-libxslt#s390x",
         "request": "^2.88.2",
         "string-direction": "0.1.x"
     },
